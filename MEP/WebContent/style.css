@@ -1,0 +1,74 @@
+
+
+.box3 {
+    height: 450px;
+    width: 960px;
+    position: relative;
+    margin:0 auto;
+    background-color: #ffff;
+    line-height: 1.4em;
+    }
+    
+
+    .rcorners4 {
+        position: absolute;
+        top: 15%;
+        border-radius: 10px;
+        border: 2px solid rgb(253, 251, 248);
+        background: #2ec138;
+        padding: 0px;
+        margin-left: -20px;
+        padding-top: 0px;
+        left: 5%;
+        width: 250px;
+        height: 350px;
+    }
+    
+
+.video{
+    position: absolute;
+    left: 40%;
+    top: 15%;
+    right: 4%;
+   
+}
+
+.rcorners4 h5 {
+    font: 17px bold sans-serif;
+    color: white;
+    margin-top: 0px;
+    margin-left:5px;
+    text-align: left;
+    padding-top: 0px;
+}
+hr {
+margin-top: -13px;
+margin-left:2px;
+margin-right:2px;
+
+} 
+.rcorners4  h4 {
+    font: 15px bold, sans-serif;
+    color: white;
+    top:5px;
+    margin-bottom: 15px;
+    line-height: 25px;
+    text-align: center;
+ }
+
+
+ .one {
+    width: 50%; 
+    text-align: left; 
+    border-bottom: 1px solid white; 
+    line-height: 0.1em;
+}
+.two {
+    text-align: right; 
+    position: relative;
+    top: -18px;
+    left: 50%;
+        }
+p span { 
+    background:#fff;  
+}
